@@ -14,7 +14,7 @@ import { createWebtuneTheme } from '../config/theming.ts';
 import { UiThemeContext } from './UiThemeContext';
 import 'react-toastify/dist/ReactToastify.css';
 import 'dayjs/locale/fr'; // import locale
-
+import '../index.css';
 dayjs.extend(weekOfYear);
 dayjs.extend(isoWeek);
 dayjs.extend(isoWeeksInYear);

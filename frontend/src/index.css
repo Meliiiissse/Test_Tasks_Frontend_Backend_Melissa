@@ -1,0 +1,7 @@
+/* 1. Arrière-plan avec un joli dégradé */
+body {
+   
+    background: linear-gradient(45deg, #ffafe4, #ffc3a0); /* Un dégradé doux entre deux couleurs pastels */
+    color: #333;
+
+}
